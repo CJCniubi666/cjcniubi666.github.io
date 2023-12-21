@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CJC/NMAP.md",
+                "file": "CJC/XXE漏洞.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CJC/NMAP.md",
+                "file": "CJC/XXE漏洞.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CJC/NMAP.md",
+                "file": "CJC/XXE漏洞.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CJC/NMAP.md"
+                "file": "CJC/XXE漏洞.md"
               }
             }
           }
@@ -152,43 +152,42 @@
   },
   "active": "c6350e914b11826d",
   "lastOpenFiles": [
-    "资源文件/图片/NMAP-1.png",
-    "CJC/README.md",
+    "CJC/CMS（待完善）.md",
+    "CJC/ASCII码表.md",
+    "CJC/数据库基础.md",
+    "CJC/权限维持.md",
+    "CJC/目录穿越.md",
+    "CJC/木马.md",
+    "CJC/命令执行（待完善）.md",
+    "CJC/记一次登陆页面绕过及文件上传的靶场（2023-8-27）.md",
+    "CJC/计算机基础（待完善）.md",
+    "CJC/各种常用软件的pyload.md",
+    "CJC/部署图床.md",
+    "CJC/4000厂商默认账号密码.md",
+    "CJC/03vulnhub-hard-socnet2.md",
+    "CJC/02vulnhub-BOREDHACKERBLOG-CLOUD-AV.md",
+    "CJC/01vulnhub-BoredHackerBlog-Social-Network.md",
+    "资源文件/图片/image-20230804113551003.png",
+    "资源文件/图片/image-20230804113318594.png",
+    "资源文件/图片/image-20230804113253225.png",
+    "资源文件/图片/image-20230804104727784.png",
+    "资源文件/图片/image-20230804104102704.png",
+    "资源文件/图片/image-20230804103953274.png",
+    "资源文件/图片/image-20230804103851895.png",
+    "资源文件/图片/image-20230729165040345.png",
+    "资源文件/图片/image-20230729164509878.png",
+    "资源文件/图片/image-20230729164336136.png",
     "CJC/NMAP.md",
-    "NMAP.md",
+    "CJC/docker.md",
+    "CJC/CSRF与SSRF.md",
+    "CJC/Beef-xss.md",
+    "CJC/提升为完全交互式的shell.md",
+    "CJC/htaccess文件中RewriteRule规则.md",
+    "CJC/重要端口及服务速查.md",
+    "CJC/网页挂马.md",
+    "CJC/信息收集.md",
+    "CJC/文件上传漏洞.md",
     "CJC",
-    "随笔/常见环境换源.md",
-    "随笔/C++文件下载.md",
-    "Web安全/sqli-labs靶场通关记录.md",
-    "内网渗透/Visual-Studio-DLL的生成和使用.md",
-    "内网渗透/免杀笔记.md",
-    "内网渗透/shellcode编写和提取.md",
-    "资源文件/图片/image-20230817191426070.png",
-    "资源文件/图片/image-20230817191233025.png",
-    "资源文件/图片/image-20230817191020478.png",
-    "资源文件/图片/image-20230817190831364.png",
-    "资源文件/图片/image-20230817190529257.png",
-    "资源文件/图片/image-20230817190524855.png",
-    "资源文件/图片/image-20230817190518679.png",
-    "资源文件/图片/image-20230817190517607.png",
-    "资源文件/图片/image-20230818142719692.png",
-    "资源文件/图片/image-20230818142401759.png",
-    "随笔/Linux多版本JDK安装及切换.md",
-    "社工钓鱼/Visual-Studio-项目钓鱼.md",
-    "Web安全/Python反弹shell完全交互式终端.md",
-    "内网渗透/README.md",
-    "Web安全/README.md",
-    "随笔/README.md",
-    "shellcode的编写及原理.md",
-    "内网渗透/WinDbg基本使用.md",
-    "资源文件/README.md",
-    "社工钓鱼/README.md",
-    "资源文件/模板/分组.md",
-    "资源文件/模板/笔记.md",
-    "Web安全/U.md",
-    "Web安全/ewq.md",
-    "Web安全/Untitled.md",
-    "README.md",
     "杂项",
     "内网渗透",
     "123",
