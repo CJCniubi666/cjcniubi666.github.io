@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "2023-12072",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -153,6 +152,7 @@
   },
   "active": "c6350e914b11826d",
   "lastOpenFiles": [
+    "资源文件/图片/NMAP-1.png",
     "CJC/README.md",
     "CJC/NMAP.md",
     "NMAP.md",
@@ -189,7 +189,6 @@
     "Web安全/ewq.md",
     "Web安全/Untitled.md",
     "README.md",
-    "资源文件/模板/README.md",
     "杂项",
     "内网渗透",
     "123",

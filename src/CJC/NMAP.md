@@ -1,10 +1,7 @@
 ---
 title: NMAP基础使用命令
 date: 2023-12-22 00:42:47
-tags:
-  - 工具使用
-categories:
-  - 工具使用
+
 ---
 
 ## Nmap语法
@@ -106,4 +103,7 @@ categories:
 > （5）Open|Filtered：开放还是被过滤
 
 > （6）Closed|Filtered：不能确定是关闭还是被过滤，只可能出现在IPID Idle扫描中。
+
+
+![](../资源文件/图片/NMAP-1.png)
 

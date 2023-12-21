@@ -9,9 +9,9 @@ export default defineUserConfig({
   title: "个人知识库", // 你的站点描述
   description: "",
   theme: hopeTheme({
-    logo: "/yinsel.jpg",
-    repo: "https://github.com/yinsel", //你的Gihub
-    docsRepo: "https://github.com/yinsel/yinsel.github.io", //你的源
+    logo: "/cjc.jpg",
+    repo: "https://github.com/cjcniubi666", //你的Gihub
+    docsRepo: "https://github.com/CJCniubi666/cjcniubi666.github.io", //你的源
     fullscreen: true,
     hotReload: true,
     navbarLayout: {
