@@ -1,0 +1,8 @@
+{
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative",
+  "attachmentFolderPath": "资源文件/图片",
+  "showInlineTitle": false,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": false
+}

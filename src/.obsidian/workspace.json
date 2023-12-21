@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "7cc9bf09122ba1ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4888e07f112d7bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6350e914b11826d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CJC/NMAP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "29abbe62daef950f",
+    "type": "split",
+    "children": [
+      {
+        "id": "404533638fb6abf9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "804156f09a5b1752",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "custom"
+              }
+            }
+          },
+          {
+            "id": "8222dafe85ae55ef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bc59eff6a89a6c7f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "ead59e0ee0933c7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a603242ef6b1770a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "862e71d5abf85bd7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "37a3f8cd6a6f302d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CJC/NMAP.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f02533ebb98f9b64",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CJC/NMAP.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "483c6de07b4b1145",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CJC/NMAP.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": false,
+      "templates:插入模板": false,
+      "templater-obsidian:Templater": false,
+      "obsidian42-brat:BRAT": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "c6350e914b11826d",
+  "lastOpenFiles": [
+    "CJC/README.md",
+    "CJC/NMAP.md",
+    "NMAP.md",
+    "CJC",
+    "随笔/常见环境换源.md",
+    "随笔/C++文件下载.md",
+    "Web安全/sqli-labs靶场通关记录.md",
+    "内网渗透/Visual-Studio-DLL的生成和使用.md",
+    "内网渗透/免杀笔记.md",
+    "内网渗透/shellcode编写和提取.md",
+    "资源文件/图片/image-20230817191426070.png",
+    "资源文件/图片/image-20230817191233025.png",
+    "资源文件/图片/image-20230817191020478.png",
+    "资源文件/图片/image-20230817190831364.png",
+    "资源文件/图片/image-20230817190529257.png",
+    "资源文件/图片/image-20230817190524855.png",
+    "资源文件/图片/image-20230817190518679.png",
+    "资源文件/图片/image-20230817190517607.png",
+    "资源文件/图片/image-20230818142719692.png",
+    "资源文件/图片/image-20230818142401759.png",
+    "随笔/Linux多版本JDK安装及切换.md",
+    "社工钓鱼/Visual-Studio-项目钓鱼.md",
+    "Web安全/Python反弹shell完全交互式终端.md",
+    "内网渗透/README.md",
+    "Web安全/README.md",
+    "随笔/README.md",
+    "shellcode的编写及原理.md",
+    "内网渗透/WinDbg基本使用.md",
+    "资源文件/README.md",
+    "社工钓鱼/README.md",
+    "资源文件/模板/分组.md",
+    "资源文件/模板/笔记.md",
+    "Web安全/U.md",
+    "Web安全/ewq.md",
+    "Web安全/Untitled.md",
+    "README.md",
+    "资源文件/模板/README.md",
+    "杂项",
+    "内网渗透",
+    "123",
+    "社工钓鱼",
+    "Web安全",
+    "资源文件/模板",
+    "资源文件/图片",
+    "资源文件",
+    "资源文件"
+  ]
+}
