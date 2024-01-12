@@ -1,6 +1,6 @@
 ---
 title: 提升为完全交互式的shell
-date: 2024-01-12 18:54:15
+date: 2024-01-12 21:28:52
 tags:
 ---
 ## 有python
@@ -21,7 +21,7 @@ Socat交互式：
 
 监听
 ```
-socat file:tty,raw,echo=0 tcp-listen:8888
+socat file:`tty`,raw,echo=0 tcp-listen:8888
 nc -lvvp 8888也可以，但是只能半交互式
 ```
 
