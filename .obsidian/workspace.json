@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "906b7961298c63bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd3ff336aa21181c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7b2e230c95d791f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/CJC/PhpStorm本地远程调试.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "36c4e787cde3e0d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d79eb2ae16ff004",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d032cb90bc8c37f4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e44027b33a1ea65d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7c3e93ac76c50755",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "115096819168e0cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7ce69e8cbbcc767",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94af8c00c8cdf7b1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "src/CJC/PhpStorm本地远程调试.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "81dcbc53525d90e3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "src/CJC/PhpStorm本地远程调试.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9efeb7348e6c8590",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3ac0630e7f211bb1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "src/CJC/PhpStorm本地远程调试.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "d7b2e230c95d791f",
+  "lastOpenFiles": [
+    "src/CJC/README.md",
+    "src/CJC/PhpStorm本地远程调试.md",
+    "src/CJC/netcat工具的使用.md",
+    "src/CJC/NMAP.md",
+    "src/CJC/网页挂马.md",
+    "src/CJC/文件上传漏洞.md"
+  ]
+}
