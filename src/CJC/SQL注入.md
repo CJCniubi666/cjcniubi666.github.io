@@ -1,6 +1,6 @@
 ---
 title: SQL注入
-date: 2023-08-10 09:27:59
+date: 2024-03-02 14:51:50
 tags:
 - web漏洞
 categories:
@@ -892,6 +892,7 @@ git clone --depth 1 https://github.com/sqlmapproject/sqlmap.git sqlmap-dev
 ● -force-ssl  可设置目标地址是https协议
 ● --os-shell  上马
 ● --level=5   搜索等级5
+● --current-db 跑出当前数据库名字
 
 例：
  python sqlmap.py -r request.txt --batch --dbs
