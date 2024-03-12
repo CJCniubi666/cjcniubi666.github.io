@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "CJC/BurpSuite安装证书为Android系统根证书.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
+                "file": "CJC/BurpSuite安装证书为Android系统根证书.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.md",
+                "file": "CJC/BurpSuite安装证书为Android系统根证书.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md"
+                "file": "CJC/BurpSuite安装证书为Android系统根证书.md"
               }
             }
           },
@@ -157,10 +157,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "804156f09a5b1752",
+  "active": "1deffd6b07ea2d37",
   "lastOpenFiles": [
-    "未命名",
+    "CJC/CMS（待完善）.md",
+    "CJC/BurpSuite安装证书为Android系统根证书.md",
+    "CJC/Beef-xss.md",
+    "CJC/03vulnhub-hard-socnet2.md",
+    "CJC/02vulnhub-BOREDHACKERBLOG-CLOUD-AV.md",
+    "CJC/01vulnhub-BoredHackerBlog-Social-Network.md",
     "未命名.md",
+    "未命名",
     "CJC/SQL注入.md",
     "CJC/PhpStorm本地远程调试.md",
     "CJC/NMAP.md",
@@ -176,15 +182,10 @@
     "CJC/各种常用软件的pyload.md",
     "CJC/部署图床.md",
     "CJC/4000厂商默认账号密码.md",
-    "CJC/03vulnhub-hard-socnet2.md",
-    "CJC/02vulnhub-BOREDHACKERBLOG-CLOUD-AV.md",
-    "CJC/01vulnhub-BoredHackerBlog-Social-Network.md",
     "CJC/XXE漏洞.md",
     "CJC/windows系统日志常用事件id.md",
     "CJC/数据库基础.md",
     "CJC/提升为完全交互式的shell.md",
-    "CJC/权限维持.md",
-    "CJC/目录穿越.md",
     "资源文件/图片/image-20230804113551003.png",
     "资源文件/图片/image-20230804113318594.png",
     "资源文件/图片/image-20230804113253225.png",

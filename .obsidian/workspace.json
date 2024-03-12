@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "fd3ff336aa21181c",
+        "id": "8f4723fb3ca710ee",
         "type": "tabs",
         "children": [
           {
-            "id": "d7b2e230c95d791f",
+            "id": "0652aa00908debc9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/CJC/BurpSuite安装证书为Android系统根证书.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/CJC/BurpSuite安装证书为Android系统根证书.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/CJC/BurpSuite安装证书为Android系统根证书.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "src/CJC/BurpSuite安装证书为Android系统根证书.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,13 +138,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d7b2e230c95d791f",
+  "active": "0652aa00908debc9",
   "lastOpenFiles": [
+    "src/CJC/BurpSuite安装证书为Android系统根证书.md",
     "src/未命名",
     "src/未命名.md",
     "Pasted image 20240312105005.png",
     "src/CJC/Beef-xss.md",
-    "src/CJC/BurpSuite安装证书为Android系统根证书.md",
     "src/CJC/PhpStorm本地远程调试.md",
     "src/CJC/README.md",
     "src/CJC/netcat工具的使用.md",
