@@ -11,8 +11,12 @@
             "id": "0652aa00908debc9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "src/CJC/BurpSuite安装证书为Android系统根证书.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "src/CJC/BurpSuite安装证书为Android系统根证书.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "src/CJC/BurpSuite安装证书为Android系统根证书.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "src/CJC/BurpSuite安装证书为Android系统根证书.md"
+              }
             }
           }
         ]
@@ -140,11 +148,12 @@
   },
   "active": "0652aa00908debc9",
   "lastOpenFiles": [
+    "src/CJC/SQL注入.md",
     "src/CJC/BurpSuite安装证书为Android系统根证书.md",
+    "src/CJC/Beef-xss.md",
     "src/未命名",
     "src/未命名.md",
     "Pasted image 20240312105005.png",
-    "src/CJC/Beef-xss.md",
     "src/CJC/PhpStorm本地远程调试.md",
     "src/CJC/README.md",
     "src/CJC/netcat工具的使用.md",
