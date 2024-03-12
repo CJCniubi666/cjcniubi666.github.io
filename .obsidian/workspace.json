@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/CJC/PhpStorm本地远程调试.md",
+                "file": "src/CJC/BurpSuite安装证书为Android系统根证书.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/CJC/PhpStorm本地远程调试.md",
+                "file": "src/CJC/BurpSuite安装证书为Android系统根证书.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/CJC/PhpStorm本地远程调试.md",
+                "file": "src/CJC/BurpSuite安装证书为Android系统根证书.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/CJC/PhpStorm本地远程调试.md"
+                "file": "src/CJC/BurpSuite安装证书为Android系统根证书.md"
               }
             }
           }
@@ -148,8 +148,13 @@
   },
   "active": "d7b2e230c95d791f",
   "lastOpenFiles": [
-    "src/CJC/README.md",
+    "src/未命名",
+    "src/未命名.md",
+    "Pasted image 20240312105005.png",
+    "src/CJC/Beef-xss.md",
+    "src/CJC/BurpSuite安装证书为Android系统根证书.md",
     "src/CJC/PhpStorm本地远程调试.md",
+    "src/CJC/README.md",
     "src/CJC/netcat工具的使用.md",
     "src/CJC/NMAP.md",
     "src/CJC/网页挂马.md",

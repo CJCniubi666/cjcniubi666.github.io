@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a4888e07f112d7bb",
+        "id": "7b038a389a6da19d",
         "type": "tabs",
         "children": [
           {
-            "id": "554bd89251d51303",
+            "id": "1deffd6b07ea2d37",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CJC/SQL注入.md",
+                "file": "未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CJC/SQL注入.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CJC/SQL注入.md",
+                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CJC/SQL注入.md"
+                "file": "未命名.md"
               }
             }
           },
@@ -157,8 +157,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "554bd89251d51303",
+  "active": "804156f09a5b1752",
   "lastOpenFiles": [
+    "未命名",
+    "未命名.md",
+    "CJC/SQL注入.md",
     "CJC/PhpStorm本地远程调试.md",
     "CJC/NMAP.md",
     "CJC/README.md",
@@ -168,7 +171,6 @@
     "CJC/HEXO博客的搭建.md",
     "CJC/网页挂马.md",
     "CJC/命令执行（待完善）.md",
-    "未命名",
     "CJC/记一次登陆页面绕过及文件上传的靶场（2023-8-27）.md",
     "CJC/计算机基础（待完善）.md",
     "CJC/各种常用软件的pyload.md",
@@ -183,9 +185,6 @@
     "CJC/提升为完全交互式的shell.md",
     "CJC/权限维持.md",
     "CJC/目录穿越.md",
-    "CJC/木马.md",
-    "README.md",
-    "CJC/文件上传漏洞.md",
     "资源文件/图片/image-20230804113551003.png",
     "资源文件/图片/image-20230804113318594.png",
     "资源文件/图片/image-20230804113253225.png",
