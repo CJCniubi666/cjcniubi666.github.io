@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CJC/BurpSuite安装证书为Android系统根证书.md",
-                "mode": "source",
-                "source": false
+                "file": "CJC/提升为完全交互式的shell.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "完全",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -96,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CJC/BurpSuite安装证书为Android系统根证书.md",
+                "file": "CJC/提升为完全交互式的shell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CJC/BurpSuite安装证书为Android系统根证书.md",
+                "file": "CJC/提升为完全交互式的shell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CJC/BurpSuite安装证书为Android系统根证书.md"
+                "file": "CJC/提升为完全交互式的shell.md"
               }
             }
           },
@@ -159,8 +160,8 @@
   },
   "active": "1deffd6b07ea2d37",
   "lastOpenFiles": [
-    "CJC/CMS（待完善）.md",
     "CJC/BurpSuite安装证书为Android系统根证书.md",
+    "CJC/CMS（待完善）.md",
     "CJC/Beef-xss.md",
     "CJC/03vulnhub-hard-socnet2.md",
     "CJC/02vulnhub-BOREDHACKERBLOG-CLOUD-AV.md",

