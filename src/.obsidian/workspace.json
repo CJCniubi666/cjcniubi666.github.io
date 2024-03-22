@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CJC/提升为完全交互式的shell.md",
-                "mode": "preview",
+                "file": "CJC/php魔术方法.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "完全",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -97,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CJC/提升为完全交互式的shell.md",
+                "file": "CJC/php魔术方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CJC/提升为完全交互式的shell.md",
+                "file": "CJC/php魔术方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CJC/提升为完全交互式的shell.md"
+                "file": "CJC/php魔术方法.md"
               }
             }
           },
@@ -160,17 +159,19 @@
   },
   "active": "1deffd6b07ea2d37",
   "lastOpenFiles": [
+    "CJC/NMAP.md",
+    "CJC/php魔术方法.md",
+    "CJC/01vulnhub-BoredHackerBlog-Social-Network.md",
+    "CJC/提升为完全交互式的shell.md",
     "CJC/BurpSuite安装证书为Android系统根证书.md",
     "CJC/CMS（待完善）.md",
     "CJC/Beef-xss.md",
     "CJC/03vulnhub-hard-socnet2.md",
     "CJC/02vulnhub-BOREDHACKERBLOG-CLOUD-AV.md",
-    "CJC/01vulnhub-BoredHackerBlog-Social-Network.md",
     "未命名.md",
     "未命名",
     "CJC/SQL注入.md",
     "CJC/PhpStorm本地远程调试.md",
-    "CJC/NMAP.md",
     "CJC/README.md",
     "CJC/Linux方向shell升级为完全可用的TTYshell.md",
     "CJC/htaccess文件中RewriteRule规则.md",
@@ -185,8 +186,6 @@
     "CJC/4000厂商默认账号密码.md",
     "CJC/XXE漏洞.md",
     "CJC/windows系统日志常用事件id.md",
-    "CJC/数据库基础.md",
-    "CJC/提升为完全交互式的shell.md",
     "资源文件/图片/image-20230804113551003.png",
     "资源文件/图片/image-20230804113318594.png",
     "资源文件/图片/image-20230804113253225.png",
