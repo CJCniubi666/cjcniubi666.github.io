@@ -1,5 +1,5 @@
 ---
-date: 2024-03-27 16:45:33
+date: 2024-03-27 16:46:33
 ---
 
 # php魔术方法
@@ -31,7 +31,7 @@ class test2 extends test1 {
 }  
 $fff = new test2;  
 $zzz = new test1;  
-echo($fff->getcode());
+echo($fff->getcode()); //将post方法传递出来
 
 ?>
 ```
