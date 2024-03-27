@@ -1,5 +1,5 @@
 ---
-date: 2024-03-21 17:40:08
+date: 2024-03-27 16:45:33
 ---
 
 # php魔术方法
@@ -18,16 +18,21 @@ class test1{
     }  
 }  
 class test2 extends test1 {  
-  
+    public $code;  
     function __construct()  
     {  
         echo "<br>"."调用成功"."<br>";  
-        $code = parent::post();  
-        system($code);  
+        $this->code = parent::post();  
+    }  
+    public function getcode()  
+    {  
+        return $this->code;  
     }  
 }  
 $fff = new test2;  
-  
+$zzz = new test1;  
+echo($fff->getcode());
+
 ?>
 ```
 
