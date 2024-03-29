@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CJC/php魔术方法.md",
-                "mode": "source",
+                "file": "CJC/adb调试Shizuku获取应用最高权限.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CJC/php魔术方法.md",
+                "file": "CJC/adb调试Shizuku获取应用最高权限.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CJC/php魔术方法.md",
+                "file": "CJC/adb调试Shizuku获取应用最高权限.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CJC/php魔术方法.md"
+                "file": "CJC/adb调试Shizuku获取应用最高权限.md"
               }
             }
           },
@@ -159,8 +159,20 @@
   },
   "active": "1deffd6b07ea2d37",
   "lastOpenFiles": [
-    "CJC/NMAP.md",
+    "资源文件/图片/d7d0364bfc62638ea1c15516fd316a3.jpg",
+    "资源文件/图片/bd9bfa83ffaa31420a081d18f7a49c0.jpg",
+    "资源文件/图片/70acbe8a72fd9a068d374b8936b30e5.jpg",
+    "资源文件/图片/07700fdf21b46d0e1af1b73246f038f.jpg",
+    "资源文件/图片/74c66966c3280abcaa8f16b420ba9af.jpg",
+    "CJC/ASCII码表.md",
+    "CJC/文件上传漏洞.md",
+    "CJC/网页挂马.md",
+    "CJC/adb调试Shizuku获取应用最高权限.md",
+    "CJC/信息收集.md",
+    "CJC/重要端口及服务速查.md",
+    "资源文件/图片/314a9377e2f06daa4f411f4717318fb.jpg",
     "CJC/php魔术方法.md",
+    "CJC/NMAP.md",
     "CJC/01vulnhub-BoredHackerBlog-Social-Network.md",
     "CJC/提升为完全交互式的shell.md",
     "CJC/BurpSuite安装证书为Android系统根证书.md",
@@ -177,25 +189,13 @@
     "CJC/htaccess文件中RewriteRule规则.md",
     "CJC/Linux查看端口占用情况.md",
     "CJC/HEXO博客的搭建.md",
-    "CJC/网页挂马.md",
     "CJC/命令执行（待完善）.md",
     "CJC/记一次登陆页面绕过及文件上传的靶场（2023-8-27）.md",
-    "CJC/计算机基础（待完善）.md",
-    "CJC/各种常用软件的pyload.md",
-    "CJC/部署图床.md",
-    "CJC/4000厂商默认账号密码.md",
-    "CJC/XXE漏洞.md",
-    "CJC/windows系统日志常用事件id.md",
     "资源文件/图片/image-20230804113551003.png",
     "资源文件/图片/image-20230804113318594.png",
     "资源文件/图片/image-20230804113253225.png",
     "资源文件/图片/image-20230804104727784.png",
     "资源文件/图片/image-20230804104102704.png",
-    "资源文件/图片/image-20230804103953274.png",
-    "资源文件/图片/image-20230804103851895.png",
-    "资源文件/图片/image-20230729165040345.png",
-    "资源文件/图片/image-20230729164509878.png",
-    "资源文件/图片/image-20230729164336136.png",
     "CJC",
     "杂项",
     "内网渗透",
