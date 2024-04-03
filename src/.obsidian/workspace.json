@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "7b038a389a6da19d",
+        "id": "b8338a7933752f54",
         "type": "tabs",
         "children": [
           {
-            "id": "1deffd6b07ea2d37",
+            "id": "f3aa6c79e6100ec6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CJC/adb调试Shizuku获取应用最高权限.md",
+                "file": "CJC/提权CVE.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CJC/adb调试Shizuku获取应用最高权限.md",
+                "file": "CJC/提权CVE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CJC/adb调试Shizuku获取应用最高权限.md",
+                "file": "CJC/提权CVE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CJC/adb调试Shizuku获取应用最高权限.md"
+                "file": "CJC/提权CVE.md"
               }
             }
           },
@@ -157,40 +157,41 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1deffd6b07ea2d37",
+  "active": "f3aa6c79e6100ec6",
   "lastOpenFiles": [
-    "未命名.md",
+    "CJC/提升为完全交互式的shell.md",
+    "CJC/提权CVE.md",
+    "CJC/信息收集.md",
+    "CJC/重要端口及服务速查.md",
     "CJC/adb调试Shizuku获取应用最高权限.md",
+    "CJC/BurpSuite安装证书为Android系统根证书.md",
+    "CJC/webshell管理工具.md",
+    "CJC/vulnstack红队5靶场.md",
+    "CJC/UDF提权命令执行.md",
+    "CJC/windows系统日志常用事件id.md",
+    "CJC/src逻辑漏洞（待完善）.md",
+    "CJC/权限维持.md",
+    "CJC/目录穿越.md",
+    "CJC/木马.md",
+    "CJC/命令执行（待完善）.md",
+    "CJC/记一次登陆页面绕过及文件上传的靶场（2023-8-27）.md",
+    "CJC/计算机基础（待完善）.md",
+    "CJC/各种常用软件的pyload.md",
+    "CJC/部署图床.md",
+    "CJC/4000厂商默认账号密码.md",
+    "CJC/ASCII码表.md",
+    "CJC/文件上传漏洞.md",
+    "CJC/网页挂马.md",
+    "CJC/数据库基础.md",
+    "CJC/Linux方向shell升级为完全可用的TTYshell.md",
+    "CJC/markdown的使用说明.md",
+    "资源文件/图片/74c66966c3280abcaa8f16b420ba9af.jpg",
     "资源文件/图片/d7d0364bfc62638ea1c15516fd316a3.jpg",
     "资源文件/图片/bd9bfa83ffaa31420a081d18f7a49c0.jpg",
     "资源文件/图片/70acbe8a72fd9a068d374b8936b30e5.jpg",
     "资源文件/图片/07700fdf21b46d0e1af1b73246f038f.jpg",
-    "资源文件/图片/74c66966c3280abcaa8f16b420ba9af.jpg",
-    "CJC/ASCII码表.md",
-    "CJC/文件上传漏洞.md",
-    "CJC/网页挂马.md",
-    "CJC/信息收集.md",
-    "CJC/重要端口及服务速查.md",
     "资源文件/图片/314a9377e2f06daa4f411f4717318fb.jpg",
-    "CJC/php魔术方法.md",
-    "CJC/NMAP.md",
-    "CJC/01vulnhub-BoredHackerBlog-Social-Network.md",
-    "CJC/提升为完全交互式的shell.md",
-    "CJC/BurpSuite安装证书为Android系统根证书.md",
-    "CJC/CMS（待完善）.md",
-    "CJC/Beef-xss.md",
-    "CJC/03vulnhub-hard-socnet2.md",
-    "CJC/02vulnhub-BOREDHACKERBLOG-CLOUD-AV.md",
     "未命名",
-    "CJC/SQL注入.md",
-    "CJC/PhpStorm本地远程调试.md",
-    "CJC/README.md",
-    "CJC/Linux方向shell升级为完全可用的TTYshell.md",
-    "CJC/htaccess文件中RewriteRule规则.md",
-    "CJC/Linux查看端口占用情况.md",
-    "CJC/HEXO博客的搭建.md",
-    "CJC/命令执行（待完善）.md",
-    "CJC/记一次登陆页面绕过及文件上传的靶场（2023-8-27）.md",
     "资源文件/图片/image-20230804113551003.png",
     "资源文件/图片/image-20230804113318594.png",
     "资源文件/图片/image-20230804113253225.png",
