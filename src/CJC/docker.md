@@ -1,13 +1,15 @@
 ---
 title: docker
-date: 2024-04-08 11:21:48
+date: 2024-04-08 11:37:41
 tags:
 - 基础
 categories: 
 - 基础
 ---
 
-# 下载docker
+# docker的使用
+
+## 下载docker
 
 ```
 apt install docker.io
@@ -15,7 +17,7 @@ apt install docker.io
 
 
 [Docker 容器使用 | 菜鸟教程 (runoob.com)](https://www.runoob.com/docker/docker-container-usage.html)
-# docker常见命令
+
 ## docker基础命令
 > - 查看docker状态：`docker ps -a`
 > - docker搜索镜像：`docker search centos7`

@@ -15,7 +15,7 @@
               "state": {
                 "file": "CJC/docker.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
