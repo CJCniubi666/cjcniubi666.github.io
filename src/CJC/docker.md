@@ -1,6 +1,6 @@
 ---
 title: docker
-date: 2024-04-08 11:17:30
+date: 2024-04-08 11:21:48
 tags:
 - 基础
 categories: 
@@ -22,7 +22,7 @@ apt install docker.io
 >  ![image-20230902111401663](../资源文件/图片/image-20230902111401663.png)
 > - 选择一个镜像拉取下来：`docker pull ansible/centos7-ansible`
 > - 查看镜像列表：`docker images`
-> - 启动对应的镜像： `docker run -it --name centos7_1 -p 80:80 ansible/centos7-ansible`
+> - 启动对应的镜像： `docker run -it --name centos7_1 -p 80:80 ansible/centos7-ansible` （前面的端口为本机的端口，后面的端口为docker开放的端口）
 > - 进入对应的镜像：`docker exec -it centos7_1 /bin/bash`
 > - 停止对应的镜像：`docker stop centos7_1`
 > - 运行对应的镜像：`docker start centos7_1`
