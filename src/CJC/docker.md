@@ -1,6 +1,6 @@
 ---
 title: docker
-date: 2024-04-08 10:42:05
+date: 2024-04-08 11:00:13
 tags:
 - 基础
 categories: 
@@ -10,7 +10,7 @@ categories:
 # 下载docker
 
 ```
-apt-get install docker-ce docker-ce-cli containerd.io
+apt install docker.io
 ```
 
 
