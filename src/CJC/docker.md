@@ -35,6 +35,8 @@ apt install docker.io
 
 ## docker的web命令
 
+### 载入docker测试web环境
+
 > runoob@runoob:~# docker pull training/webapp  # 载入镜像
 > runoob@runoob:~# docker run -d -P training/webapp python app.py
 > 
@@ -45,3 +47,34 @@ apt install docker.io
 > - **-d:**让容器在后台运行。
 >    
 > - **-P:**将容器内部使用的网络端口随机映射到我们使用的主机上。
+
+### 网络端口的快捷方式
+
+
+```
+runoob@runoob:~$ docker port bf08b7f2cd89
+5000/tcp -> 0.0.0.0:5000
+```
+
+### 查看web应用程序日志
+
+```
+┌──(root㉿kali)-[~]
+└─# docker logs --details -f 7e9fc771521b 
+  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+ 172.17.0.1 - - [08/Apr/2024 03:14:55] "GET / HTTP/1.1" 200 -
+ 172.17.0.1 - - [08/Apr/2024 03:14:55] "GET /favicon.ico HTTP/1.1" 404 -
+ 172.17.0.1 - - [08/Apr/2024 03:16:28] "GET / HTTP/1.1" 200 -
+
+具体的docker logs命令可以用docker logs --help
+```
+
+### 查看web容器的进程
+
+```
+┌──(root㉿kali)-[~]
+└─# docker top 7e9fc771521b
+UID                 PID                 PPID                C                   STIME               TTY                 TIME                CMD
+root                203843              203823              0                   11:12               ?                   00:00:00            python app.py
+```
+![](../资源文件/图片/docker-1.png)

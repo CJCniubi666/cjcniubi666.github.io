@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f3aa6c79e6100ec6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CJC/提权CVE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "11da9775ba1c0889",
             "type": "leaf",
             "state": {
@@ -27,12 +15,11 @@
               "state": {
                 "file": "CJC/docker.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,6 +159,7 @@
   },
   "active": "11da9775ba1c0889",
   "lastOpenFiles": [
+    "资源文件/图片/docker-1.png",
     "CJC/提权CVE.md",
     "CJC/提升为完全交互式的shell.md",
     "CJC/信息收集.md",
@@ -197,7 +185,6 @@
     "CJC/网页挂马.md",
     "CJC/数据库基础.md",
     "CJC/Linux方向shell升级为完全可用的TTYshell.md",
-    "CJC/markdown的使用说明.md",
     "资源文件/图片/74c66966c3280abcaa8f16b420ba9af.jpg",
     "资源文件/图片/d7d0364bfc62638ea1c15516fd316a3.jpg",
     "资源文件/图片/bd9bfa83ffaa31420a081d18f7a49c0.jpg",
