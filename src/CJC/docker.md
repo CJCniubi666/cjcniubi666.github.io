@@ -1,6 +1,6 @@
 ---
 title: docker
-date: 2024-04-08 11:37:41
+date: 2024-04-18 15:15:48
 tags:
 - 基础
 categories: 
@@ -28,7 +28,8 @@ apt install docker.io
 > - 进入对应的镜像：`docker exec -it centos7_1 /bin/bash`
 > - 停止对应的镜像：`docker stop centos7_1`
 > - 运行对应的镜像：`docker start centos7_1`
-> - 删除对应的镜像：`docker rm -f centos7_1` 
+> - 删除对应的ps里面的：`docker rm -f centos7_1` 
+> - 删除对应的镜像：`docker rmi centos7_1` 
 > - 新建一个dockerfile文件：`vim dockerfile`
 >  ![image-20230902112332939](../资源文件/图片/image-20230902112332939.png)
 > - 自己构建镜像：`docker build -t hello .`

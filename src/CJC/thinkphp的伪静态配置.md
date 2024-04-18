@@ -1,5 +1,5 @@
 ---
-date: 2024-04-16 10:38:30
+date: 2024-04-16 10:38:44
 ---
 
 # thinkphp-nginx伪静态配置
@@ -73,4 +73,5 @@ RewriteRule (.*)$ /index\.php\?s=$1 [I]
  </rule>
  </rules>
  </rewrite>
+
 ```
