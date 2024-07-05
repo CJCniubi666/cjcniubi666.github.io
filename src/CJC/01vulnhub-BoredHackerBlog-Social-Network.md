@@ -11,7 +11,7 @@ categories:
 
 https://download.vulnhub.com/boredhackerblog/medium_socnet.ova
 
-
+.
 
 # 靶机目标
 
