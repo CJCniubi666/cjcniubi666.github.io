@@ -12,4 +12,5 @@ iptables -A OUTPUT -p udp --dport 123 -j DROP
 
 # 启动后清除防火墙规则
 iptables -F
+
 ```
