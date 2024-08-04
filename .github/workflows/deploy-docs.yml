@@ -24,9 +24,7 @@ jobs:
           cache: 'pnpm'
 
       - name: 安装 pnpm
-        uses: pnpm/action-setup@v2
-        with:
-          version: 8
+        run: corepack enable pnpm && corepack prepare pnpm@8.0.0 --activate
 
       - name: 确认 pnpm 版本
         run: pnpm --version
