@@ -12,6 +12,7 @@ tips:如果是本地小皮搭建，需要使用apache为中间件，且php.ini�
 phar.readonly = Off
 ```
 
+
 前提条件是需要登录后台，
 
 首先自己本地使用下方代码生成``phar.phar``
