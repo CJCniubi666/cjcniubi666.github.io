@@ -32,14 +32,14 @@ jobs:
         run: pnpm --version
 
       - name: 安装依赖
-        run: pnpm install
+        run: pnpm install --no-frozen-lockfile
 
       - name: 构建文档
         env:
           NODE_OPTIONS: --max_old_space_size=8192
         run: |
           pnpm run docs:build
-          echo > src/.vuepress/dist/.nojekyll
+          touch src/.vuepress/dist/.nojekyll
 
       - name: 部署文档
         uses: JamesIves/github-pages-deploy-action@v4
