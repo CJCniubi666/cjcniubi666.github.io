@@ -148,6 +148,8 @@
   },
   "active": "4ab99ceb0a5b2126",
   "lastOpenFiles": [
+    "pnpm-lock.yaml.1454664311",
+    "_tmp_14112_39f3d63ac9f4d760ad0f5160d0a81c9c",
     "yarn.lock",
     "node_modules/nodejs-jieba/build/Release/obj/jieba/jieba.tlog/Cl.items.tlog",
     "node_modules/nodejs-jieba/build/binding.sln",
@@ -157,8 +159,6 @@
     "node_modules/node-gyp/gyp/pylib/gyp/generator/__pycache__/ninja.cpython-310.pyc",
     "node_modules/node-gyp/gyp/pylib/gyp/generator/__pycache__/msvs.cpython-310.pyc",
     "node_modules/node-gyp/gyp/pylib/gyp/generator/__pycache__",
-    "node_modules/node-gyp/gyp/pylib/gyp/__pycache__/__init__.cpython-310.pyc",
-    "node_modules/node-gyp/gyp/pylib/gyp/__pycache__/xcode_emulation.cpython-310.pyc",
     "node_modules/promise-inflight/README.md",
     "node_modules/registry-url/readme.md",
     "node_modules/registry-auth-token/README.md",
