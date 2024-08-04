@@ -49,19 +49,3 @@ export default defineUserConfig({
   // Enable it with pwa
   // shouldPrefetch: false,
 });
-
-// .vuepress/config.js
-module.exports = {
-
-  // other options...
-  plugins: [
-    [
-      'posts-encrypt',
-      {
-        route: '/auth',
-        passwd: 'cjc134768075',
-        encryptInDev: true,
-        expires: 1000  * 60
-      }
-    ]
-}
