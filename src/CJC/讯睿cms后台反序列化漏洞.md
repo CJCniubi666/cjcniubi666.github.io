@@ -10,7 +10,6 @@ tips:如果是本地小皮搭建，需要使用apache为中间件，且php.ini�
 [Phar]
 ; http://php.net/phar.readonly
 phar.readonly = Off
-
 ```
 
 
