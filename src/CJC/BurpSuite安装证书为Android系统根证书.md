@@ -19,7 +19,7 @@ openssl x509 -inform PEM -subject_hash_old -in bp.pem
 ```
 
 重命名证书：
-![[Pasted image 20240312105005.png]]
+![Pasted image 20240312105005.png](../资源文件/图片/Pasted-image-20240312105005.png)
 
 将`pem`重命名为`.0`
 

