@@ -28,6 +28,9 @@ jobs:
         with:
           version: 8
 
+      - name: 确认 pnpm 版本
+        run: pnpm --version
+
       - name: 安装依赖
         run: pnpm install
 
