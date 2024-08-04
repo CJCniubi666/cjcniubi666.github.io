@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/CJC/讯睿cms后台反序列化漏洞.md",
+                "file": "src/CJC/BurpSuite安装证书为Android系统根证书.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/CJC/讯睿cms后台反序列化漏洞.md",
+                "file": "src/CJC/BurpSuite安装证书为Android系统根证书.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/CJC/讯睿cms后台反序列化漏洞.md",
+                "file": "src/CJC/BurpSuite安装证书为Android系统根证书.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/CJC/讯睿cms后台反序列化漏洞.md"
+                "file": "src/CJC/BurpSuite安装证书为Android系统根证书.md"
               }
             }
           }
@@ -148,29 +148,41 @@
   },
   "active": "4ab99ceb0a5b2126",
   "lastOpenFiles": [
-    "src/CJC/XXE漏洞.md",
+    "src/资源文件/图片/Pasted image 20240312105005.png",
     "src/CJC/BurpSuite安装证书为Android系统根证书.md",
-    "src/CJC/CMS（待完善）.md",
     "Pasted image 20240312105005.png",
-    "Pasted image 20240804231218.png",
-    "Pasted image 20240804230432.png",
+    "src/CJC/sethc后门.md",
+    "src/CJC/SQL注入.md",
+    "src/CJC/SQL注入报错注入20种方式.md",
+    "src/CJC/src逻辑漏洞（待完善）.md",
+    "src/CJC/SUID可执行文件查询.md",
+    "src/CJC/thinkphp的伪静态配置.md",
+    "src/CJC/UDF提权命令执行.md",
+    "src/CJC/vshell绕过时间校验.md",
+    "src/CJC/vulnstack红队5靶场.md",
+    "src/CJC/webshell管理工具.md",
+    "src/CJC/windows系统日志常用事件id.md",
+    "src/CJC/XXE漏洞.md",
+    "src/CJC/netcat工具的使用.md",
+    "src/CJC/msf与cs的运用.md",
+    "src/CJC/NMAP.md",
+    "src/CJC/php流包装免杀webshell.md",
+    "src/CJC/docker.md",
+    "src/CJC/CSRF与SSRF.md",
+    "src/CJC/CMS（待完善）.md",
+    "src/CJC/Beef-xss.md",
+    "src/CJC/ASCII码表.md",
+    "src/CJC/adb调试Shizuku获取应用最高权限.md",
     "src/CJC/讯睿cms后台反序列化漏洞.md",
+    "src/资源文件/图片/Pasted image 20240804231609.png",
+    "src/资源文件/图片/Pasted image 20240804231519.png",
+    "src/资源文件/图片/Pasted image 20240804231218.png",
+    "Pasted image 20240804231218.png",
+    "src/资源文件/图片/Pasted image 20240804230432.png",
+    "Pasted image 20240804230432.png",
     "Pasted image 20240804231609.png",
     "Pasted image 20240804231519.png",
     "src/CJC/信息收集.md",
-    "src/CJC/vshell绕过时间校验.md",
-    "src/CJC/NMAP.md",
-    "src/CJC/php流包装免杀webshell.md",
-    "src/CJC/netcat工具的使用.md",
-    "src/CJC/笔记.md",
-    "src/CJC/01vulnhub-BoredHackerBlog-Social-Network.md",
-    "src/CJC/SQL注入.md",
-    "src/CJC/Beef-xss.md",
-    "src/未命名",
-    "src/未命名.md",
-    "src/CJC/PhpStorm本地远程调试.md",
-    "src/CJC/README.md",
-    "src/CJC/网页挂马.md",
-    "src/CJC/文件上传漏洞.md"
+    "src/未命名"
   ]
 }
