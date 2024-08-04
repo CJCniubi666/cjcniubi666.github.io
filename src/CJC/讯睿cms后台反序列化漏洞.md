@@ -4,7 +4,6 @@ date: 2024-08-04 22:54:17
 ---
 tips:如果是本地小皮搭建，需要使用apache为中间件，且php.ini的phar.readonly需要为Off
 
-
 ```
 [Phar]
 ; http://php.net/phar.readonly
