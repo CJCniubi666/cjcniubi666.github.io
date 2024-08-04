@@ -20,20 +20,32 @@ jobs:
           fetch-depth: 0
           # 如果你文档需要 Git 子模块，取消注释下一行
           # submodules: true
-
-      - name: 安装 pnpm
+          
+      - name: Setup pnpm
         uses: pnpm/action-setup@v2
         with:
           run_install: true
-          version: 8
+          version: 8.0.0
 
 
-      - name: 设置 Node.js
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: 18
-          cache: pnpm
+          node-version: '20'
 
+      - name: Install dependencies
+        run: pnpm install
+
+      - name: Prune pnpm store
+        run: pnpm store prune
+
+      - name: Build and deploy
+        run: |
+          npm run build
+          npm run deploy
 
       - name: 构建文档
         env:
