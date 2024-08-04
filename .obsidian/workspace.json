@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0652aa00908debc9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/CJC/php流包装免杀webshell.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "4ab99ceb0a5b2126",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/CJC/vshell绕过时间校验.md",
+                "file": "src/CJC/讯睿cms后台反序列化漏洞.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/CJC/vshell绕过时间校验.md",
+                "file": "src/CJC/讯睿cms后台反序列化漏洞.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/CJC/vshell绕过时间校验.md",
+                "file": "src/CJC/讯睿cms后台反序列化漏洞.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/CJC/vshell绕过时间校验.md"
+                "file": "src/CJC/讯睿cms后台反序列化漏洞.md"
               }
             }
           }
@@ -161,11 +148,17 @@
   },
   "active": "4ab99ceb0a5b2126",
   "lastOpenFiles": [
+    "Pasted image 20240804231609.png",
+    "Pasted image 20240804231519.png",
+    "Pasted image 20240804231218.png",
+    "Pasted image 20240804230432.png",
+    "src/CJC/信息收集.md",
+    "src/CJC/讯睿cms后台反序列化漏洞.md",
+    "src/CJC/vshell绕过时间校验.md",
     "src/CJC/NMAP.md",
     "src/CJC/php流包装免杀webshell.md",
     "src/CJC/netcat工具的使用.md",
     "src/CJC/笔记.md",
-    "src/CJC/vshell绕过时间校验.md",
     "src/CJC/01vulnhub-BoredHackerBlog-Social-Network.md",
     "src/CJC/BurpSuite安装证书为Android系统根证书.md",
     "src/CJC/SQL注入.md",
