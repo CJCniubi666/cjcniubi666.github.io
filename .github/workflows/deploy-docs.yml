@@ -27,10 +27,11 @@ jobs:
           cache: 'pnpm'
 
       - name: 安装 pnpm
-        uses: pnpm/action-setup@v2
-        with:
-          version: '8'
-          run_install: true
+        run: |
+          npm install -g pnpm@8
+
+      - name: 安装依赖
+        run: pnpm install
 
       - name: 构建文档
         env:
